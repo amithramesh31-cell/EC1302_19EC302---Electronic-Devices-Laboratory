@@ -31,7 +31,7 @@ LT-Spice
 
 
 ## RESULT:
-Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified. 
+Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified.  
 
 
 
